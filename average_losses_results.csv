@@ -1,0 +1,9 @@
+Method,Average Loss
+Best Expert,1121471.243819242
+Best Fixed Combination,666651.5049338952
+EWA (eta_theoretical),1043544.5390729962
+EWA (eta_tuned),966454.2205688641
+EG (eta_theoretical),14084708.956883296
+EG (eta_tuned),1252355.3239975732
+OGD (eta_theoretical),12456199.21216102
+OGD (eta_tuned),8127460.185990549
